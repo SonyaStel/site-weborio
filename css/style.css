@@ -266,7 +266,7 @@ img {
 .footer {
   padding-top: 300px;
   color: #fff;
-  background-image: url("/img/footer-bg.jpeg");
+  background-image: url("../img/footer-bg.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
